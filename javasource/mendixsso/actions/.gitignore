@@ -1,0 +1,16 @@
+/CalculateOpenIDFromUUID.class
+/DecryptString.class
+/DeleteExpiredAuthRequests.class
+/DeleteExpiredTokens.class
+/EncryptString.class
+/ExtractUUIDFromOpenID.class
+/FindOrCreateUserWithUserInfo.class
+/GenerateRandomPassword.class
+/GetTokenEndpointURI.class
+/GetUserInfoEndpointURI.class
+/GetUserProfileFromUserInfoJSON.class
+/InitializeUserMapper.class
+/LoadBooleanValueFromEnvOrDefault.class
+/LoadStringValueFromEnvOrDefault.class
+/LogOutUser.class
+/StartSignOnServlet.class
